@@ -11,5 +11,7 @@ Sometime in last week of May to first week of June (May 25 - Jun 7)
    - Writing informative commit messages
 4. Perform simple collaborative operations (`merge`, forking)
 
+5. should we teach them about pull requests
+
 ### More detailed workshop outline
 TBC
