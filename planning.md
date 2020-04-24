@@ -10,8 +10,8 @@ Sometime in last week of May to first week of June (May 25 - Jun 7)
 3. Perform basic CRUD operations (`commit`, `push`, `pull`, `status`,`add`) using [GitHub Desktop](https://desktop.github.com/).  
    - Writing informative commit messages
 4. Perform simple collaborative operations (`merge`, forking)
-
-5. should we teach them about pull requests
+5. Explain the use of pull requests
+   -working on public open source projects
 
 ### More detailed workshop outline
 TBC
