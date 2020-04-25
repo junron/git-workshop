@@ -1,7 +1,7 @@
 # Planning
 
 ## When?
-Sometime in last week of May to first week of June (May 25 - Jun 7)
+Afternoon of 29 May
 
 ## What?
 #### Learning objectives
