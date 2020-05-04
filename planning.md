@@ -16,6 +16,13 @@
 ### Pre-workshop
 Participants should setup a [GitHub account](https://github.com/join) before the workshop.
 
-### More detailed workshop outline
+## More detailed workshop outline
+### Section 1: What is Git and why should you use it?
+Advantages of git:
+1. Ability to easily revert to previous states (Version Control)
+2. Parallel collaborative development
+3. Remote, centralized backups (GitHub)
 
-
+Use cases:
+1. Work on a project from multiple computers (home and school)
+2. Backup snapshots of work (revisions)
