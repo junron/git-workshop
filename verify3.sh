@@ -1,7 +1,7 @@
-if test -f /workspace/git-workshop/super-secret.txt; then
+if test -f ./super-secret.txt; then
   
-  if test -f /workspace/git-workshop/.gitignore; then
-    if grep -q "^super-secret.txt$" /workspace/git-workshop/.gitignore; then
+  if test -f ./.gitignore; then
+    if grep -q "^super-secret.txt$" ./.gitignore; then
       echo "Congratulations! Mission accomplished."
     else
       echo "The secret file is not in the .gitignore file"
