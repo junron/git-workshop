@@ -1,1 +1,1 @@
-image: alpine/git
+image: alpine/python
