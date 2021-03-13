@@ -1,4 +1,4 @@
-#!/home/gitpod/.pyenv/shims/python3
+#!/usr/local/bin/python3
 
 import subprocess, sys
 stri = subprocess.check_output(["git", "status"]).decode("utf-8")
